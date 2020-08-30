@@ -9,14 +9,13 @@ as   |  elif   |  try   | or  | yield
 assert   |  else   |  import   | pass
 break   |  except   |  in   | raise
 ## Numeric Expressions
-Operator  |   Operation
- ---  |   ---
- + | Addition
- - | Subtraction
- * | Multiplication
- / | Division
- ** | Power
- % | Remainder
+|Operator  |   Operation|
+ |---  |   ---|
+|- | Subtraction|
+| * | Multiplication|
+ |/ | Division|
+ |** | Power|
+ |% | Remainder|
 
 ## Operator Precedence
 ![image](operator_precedence.JPG)
