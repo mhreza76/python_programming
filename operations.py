@@ -23,11 +23,7 @@ globalVariable()
 print(global_x)
 print(global_y)
 
-
-
-
-
-
-
+username = input("Enter username:")
+print("Username is: " + username)
 
 
